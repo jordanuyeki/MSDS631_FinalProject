@@ -13,7 +13,7 @@ The dataset we chose to work with is the [COVID Face Mask Detection Dataset](htt
 ![mask-example](/images/mask.png)
 
 - The Non Mask Wearers:
-![nonmask-example](/images/nonmask/jpg)
+![nonmask-example](/images/nonmask.jpg)
 
 
 ## Future Directions 
