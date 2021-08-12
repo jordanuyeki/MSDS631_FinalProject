@@ -9,10 +9,10 @@ For this project, we wanted to leverage various neural network models to classif
 
 ## The Data
 The dataset we chose to work with is the [COVID Face Mask Detection Dataset](https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset) from Kaggle. This dataset contains over 1000 images, which each fall into two distinct categories: 
-- The Mask Wearers:
+- The Mask Wearers:     
 ![mask-example](/images/mask.png)
 
-- The Non Mask Wearers:
+- The Non Mask Wearers:     
 ![nonmask-example](/images/nonmask.jpg)
 
 
