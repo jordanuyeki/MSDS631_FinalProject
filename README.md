@@ -38,7 +38,7 @@ For our second candidate model, we used a pretrained Mobilenet V2 model from the
 For our last candidate model, we used a pretrained Resnet18 model from the torchvision module.  We used a Cross Entropy Loss Function with an Adam optimizer with a learning rate of 0.001. After training for 5 epochs, we attained a training accuracy of 0.972 and a validation accuracy of 0.948. 
 
 Below is a table that summarizes our candidate models' performances
-* | Training Accuracy | Validation Accuracy
+Model | Training Accuracy | Validation Accuracy
 ------------ | ------------- | -------------
 Convolutional Neural Network | 0.900 | 0.889
 Pretrained Mobilenet V2 | 0.980 | 0.950
